@@ -1,16 +1,15 @@
-# Hack Apertus — project template
+# Hack Apertus — Apertica project 
+
+Apertica is the fusion of Apertus and Medica for an open health companion called APERTICA!
 
 Template repository for [Hack Apertus](https://hackapertus.ch/) submissions.
 Every project keeps almost the same layout, so organizers and judges find the
 same things in the same place.
 
-## Select your track
+## Track
 
-This repository holds one example project per track:
+This repository holds the files for track:
 
-- `track_1a/`
-- `track_1b/`
-- `track_2a/`
 - `track_2b/`
 
 Keep the directory for the track you are competing in **exactly as it is** —
